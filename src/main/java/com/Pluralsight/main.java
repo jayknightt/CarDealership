@@ -1,2 +1,4 @@
-package com.Pluralsight;public class main {
+package com.Pluralsight;
+
+public class main {
 }
